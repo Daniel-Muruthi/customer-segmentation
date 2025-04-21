@@ -96,39 +96,13 @@ customer-segmentation/
 ├── data/                     # Directory containing datasets
 │   ├── online_retail.csv
 │   └── online_retail_II.csv
-├── images/                   # Visualizations and plots
-└── requirements.txt          # Python dependencies
+├__ customer_segmentation_report.pdf    # Project Report
+
 ```
-
-## 💻 Installation and Usage
-
-1. **Clone the repository**:
-
-   ```bash
-   git clone https://github.com/Daniel-Muruthi/customer-segmentation.git
-   cd customer-segmentation
-   ```
-
-2. **Create a virtual environment** (optional but recommended):
-
-   ```bash
-   python -m venv env
-   source env/bin/activate  # On Windows: env\Scripts\activate
-   ```
-
-3. **Install dependencies**:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Run the Jupyter Notebook**:
-
-   ```bash
-   jupyter notebook index.ipynb
-   ```
 
 ## 📚 References
 
 - [UCI Machine Learning Repository: Online Retail Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
 - [UCI Machine Learning Repository: Online Retail II Dataset](https://archive.ics.uci.edu/ml/datasets/Online+Retail+II)
+
+#### Email: adinomuruthi1@gmail.com
